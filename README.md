@@ -3,7 +3,7 @@
 ***
 |Nombre del superheroe	|Identidad secreta		|Imagen  |
 |----------------------|-------------------|--------|
-|Batman	               |Bruce Wayne        | ![Batman](https://mural.uv.es/franpevi/batman.jpg)  |
+|Batman	               |Bruce Wayne        |![Batman](https://mural.uv.es/franpevi/batman.jpg)  |
 |Robin	                |Dick Grayson	      |![Robin](https://mural.uv.es/franpevi/robin.jpg) |
 
 ***
