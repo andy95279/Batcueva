@@ -1,10 +1,10 @@
 # Batcueva
 # Inquilinos de la Batcueva :bat:
 ***
-|Nombre del superheroe	|Identidad secreta		|Imagen|
-|-------------------|-------------------|--------|
-|Batman	|Bruce Wayne | ![Batman](https://mural.uv.es/franpevi/batman.jpg)  |
-|Robin	|Dick Grayson	|![Robin](https://mural.uv.es/franpevi/robin.jpg) |
+|Nombre del superheroe	|Identidad secreta		|Imagen  |
+|----------------------|-------------------|--------|
+|Batman	               |Bruce Wayne        | ![Batman](https://mural.uv.es/franpevi/batman.jpg)  |
+|Robin	                |Dick Grayson	      |![Robin](https://mural.uv.es/franpevi/robin.jpg) |
 
 ***
 ## Tareas a llevar a cabo por Alfred
